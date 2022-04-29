@@ -33,7 +33,7 @@
   "homepage": "https://github.com/SkeloGH/weaver#readme",
   "dependencies": {
     "@babel/polyfill": "^7.6.0",
-    "async": "^2.6.3",
+    "async": "^2.6.4",
     "coffee-script": "^1.12.7",
     "debug": "^4.1.1",
     "lodash": "^4.17.15",
